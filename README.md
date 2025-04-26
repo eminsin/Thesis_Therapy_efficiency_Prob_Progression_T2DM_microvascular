@@ -1,4 +1,4 @@
-# Thesis: Simulation and Analytical Framework for T2D Risk Factor Progression and Disease Onset
+# Thesis (continuining): Simulation and Analytical Framework for T2D Risk Factor Progression and Disease Onset
 ### Data Simulation Using UKPDS 90 Model
 - Simulated longitudinal patient-level data for HbA1c (systolic blood pressure (SBP), and total cholesterol maybe later) based on the dynamic model presented in UKPDS 90: Estimating risk factor progression equations for the UKPDS Outcomes Model 2.
 - The simulation is governed by the following autoregressive mixed model:
