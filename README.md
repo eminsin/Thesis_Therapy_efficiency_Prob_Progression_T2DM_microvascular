@@ -1,1 +1,1 @@
-# Thesis_Therapy_efficiency_Prob_Progression_T2DM_microvascular
+# Thesis: Results of the HbA1c progression for type 2 diabetes patients
